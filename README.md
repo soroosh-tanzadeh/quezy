@@ -1,4 +1,4 @@
-# quezy
+# Quezy
 Quezy is a distributed task queue with redis backend
 
 ## Overview
